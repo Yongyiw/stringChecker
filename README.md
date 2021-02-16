@@ -1,6 +1,24 @@
+# Project Introduction
+
+## APIs
+
+GET text/list
+POST text/add
+POST text/delete
+POST text/edit
+POST text/check
+
+## TO DOs
+1) Deploy the project to heroku
+2) Connect to MySQL database locally and remotely
+3) Implement APIs
+4) Design FE page
+5) User authentication
+
+
 # php-getting-started
 
-A barebones PHP app that makes use of the [Silex](http://silex.sensiolabs.org/) web framework, which can easily be deployed to Heroku.
+A barebones PHP app that makes use of the [Silex](http://silex.sensiolabs.org/) web framework, which can easily be deployed to Heroku. (Nah, laravel is used in this project)
 
 This application supports the [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php) article - check it out.
 
@@ -26,3 +44,4 @@ For more information about using PHP on Heroku, see these Dev Center articles:
 
 - [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php)
 - [PHP on Heroku](https://devcenter.heroku.com/categories/php)
+
